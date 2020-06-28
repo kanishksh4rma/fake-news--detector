@@ -55,4 +55,4 @@ SVM
 
 > Developed by : [kanishk sharma]('https://github.com/kanishksh4rma')
 
-[![forthebadge](https://forthebadge.com/images/badges/made-with-love.svg)](https://github.com/kanishksh4rma/fake-news--detector )
+[![made-with-love](https://forthebadge.com/images/badges/made-with-love.svg)](https://github.com/kanishksh4rma/fake-news--detector )
