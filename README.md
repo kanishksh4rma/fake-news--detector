@@ -1,4 +1,4 @@
-# fake-news-detector
+# Fake-News-detector
 [![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.svg?v=102)](https://github.com/kanishksh4rma/COVID19-DATA-ANLYSIS) [![Code Climate](https://codeclimate.com/github/boennemann/badges.svg)](https://github.com/kanishksh4rma/COVID19-DATA-ANLYSIS)
 
 ### My first obstacle was unexpected. After doing some research into fake news, I very quickly discovered that there are many different categories misinformation can fall into. There are articles that are blatantly false, articles that provide a truthful event but then make some false interpretations, articles that are pseudoscientific, articles that are really just opinion pieces disguised as news, articles that are satirical, and articles that are comprised of mostly tweets and quotes from other people. 
@@ -55,4 +55,9 @@ SVM
 
 > Developed by : [kanishk sharma]('https://github.com/kanishksh4rma')
 
-[![made-with-love](https://forthebadge.com/images/badges/made-with-love.svg)](https://github.com/kanishksh4rma/fake-news--detector )
+
+
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/kanishksh4rma/Cancer-Prediction-in-Early-stages)
+
+
+
