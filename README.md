@@ -3,7 +3,7 @@
 
 ### My first obstacle was unexpected. After doing some research into fake news, I very quickly discovered that there are many different categories misinformation can fall into. There are articles that are blatantly false, articles that provide a truthful event but then make some false interpretations, articles that are pseudoscientific, articles that are really just opinion pieces disguised as news, articles that are satirical, and articles that are comprised of mostly tweets and quotes from other people. 
 
-# I Googled around and found some people trying to categorize websites into groups like ‘satire’, ‘fake’, ‘misleading’, etc.
+### I Googled around and found some people trying to categorize websites into groups like ‘satire’, ‘fake’, ‘misleading’, etc.
 
 > ## Objective
 
@@ -22,7 +22,6 @@
 * Seaborn
 
 ```
-
 ---
 
 
@@ -32,7 +31,7 @@ The Algorithms used are :
 
 	* RandomForestClassifier
 	* PassiveAgressiveClassifier
-`	* SVM
+	* SVM
 
 ## Screenshots
 
@@ -56,5 +55,4 @@ SVM
 
 > Developed by : [kanishk sharma]('https://github.com/kanishksh4rma')
 
-
-[![forthebadge](https://forthebadge.com/images/badges/made-with-love.svg)](https://github.com/kanishksh4rma/COVID19-DATA-ANLYSIS )
+[![forthebadge](https://forthebadge.com/images/badges/made-with-love.svg)](https://github.com/kanishksh4rma/fake-news--detector )
